@@ -1,0 +1,500 @@
+Jun 14 06:21:11 srv-prod-01 sshd[4898]: Failed password for root from 10.0.128.239 port 24501 ssh2
+Jun 14 10:52:19 srv-prod-01 sshd[7865]: Failed password for git from 193.32.162.55 port 26582 ssh2
+Jun 14 07:10:25 srv-prod-01 sshd[2146]: Failed password for test from 45.33.32.156 port 29289 ssh2
+Jun 14 07:15:30 srv-prod-01 sshd[3496]: Failed password for invalid user ftp from 193.32.162.55 port 2359 ssh2
+Jun 14 06:05:22 srv-prod-01 sshd[5785]: Connection closed by 10.0.128.239 port 15476 [preauth]
+Jun 14 10:09:45 srv-prod-01 sshd[9346]: Failed password for invalid user test from 45.33.32.156 port 43064 ssh2
+Jun 14 00:20:31 srv-prod-01 sshd[7951]: Disconnected from 74.80.37.114 port 20629
+Jun 14 08:50:31 srv-prod-01 sshd[8369]: pam_unix(sshd:session): session closed for user admin
+Jun 14 13:54:12 srv-prod-01 sshd[3267]: Failed password for ftp from 172.16.0.70 port 14111 ssh2
+Jun 14 16:54:35 srv-prod-01 sshd[6231]: Failed password for test from 192.168.1.90 port 57482 ssh2
+Jun 14 05:29:18 srv-prod-01 sshd[7815]: Invalid user admin from 10.0.128.239 port 20385
+Jun 14 01:08:01 srv-prod-01 sshd[1570]: pam_unix(sshd:session): session closed for user git
+Jun 14 03:24:15 srv-prod-01 sshd[1154]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Jun 14 09:43:58 srv-prod-01 sshd[4700]: Invalid user maria from 198.98.54.31 port 16962
+Jun 14 23:39:40 srv-prod-01 sshd[9479]: Failed password for test from 45.33.32.156 port 29735 ssh2
+Jun 14 07:41:26 srv-prod-01 sshd[3878]: Invalid user backup from 75.167.61.2 port 29247
+Jun 14 19:31:22 srv-prod-01 sshd[1452]: Failed password for invalid user test from 45.33.32.156 port 62577 ssh2
+Jun 14 17:38:37 srv-prod-01 sshd[5499]: Failed password for sysadmin from 193.32.162.55 port 16703 ssh2
+Jun 14 15:52:34 srv-prod-01 sshd[9821]: Failed password for root from 45.33.32.156 port 35097 ssh2
+Jun 14 14:11:08 srv-prod-01 sshd[6050]: Accepted publickey for root from 192.168.1.108 port 62821 ssh2
+Jun 14 03:20:15 srv-prod-01 sshd[6464]: Accepted publickey for root from 192.168.1.90 port 52587 ssh2
+Jun 14 14:06:19 srv-prod-01 sshd[6482]: pam_unix(sshd:session): session closed for user maria
+Jun 14 11:45:18 srv-prod-01 sshd[1793]: Disconnected from 148.66.248.202 port 45755
+Jun 14 19:40:04 srv-prod-01 sshd[9017]: Invalid user sysadmin from 192.168.1.252 port 7513
+Jun 14 11:46:12 srv-prod-01 sshd[7622]: Failed password for admin from 91.240.118.172 port 64606 ssh2
+Jun 14 04:51:47 srv-prod-01 sshd[7813]: pam_unix(sshd:session): session closed for user maria
+Jun 14 01:27:04 srv-prod-01 sshd[6280]: Failed password for www-data from 91.240.118.172 port 29337 ssh2
+Jun 14 22:33:07 srv-prod-01 sshd[4196]: Accepted publickey for user1 from 192.168.1.199 port 9971 ssh2
+Jun 14 23:59:23 srv-prod-01 sshd[8847]: pam_unix(sshd:session): session closed for user root
+Jun 14 23:48:37 srv-prod-01 sshd[5905]: Failed password for carlos from 45.33.32.156 port 1536 ssh2
+Jun 14 10:44:44 srv-prod-01 sshd[7511]: Connection closed by 30.239.38.37 port 57394 [preauth]
+Jun 14 08:52:59 srv-prod-01 sshd[1090]: Failed password for ubuntu from 45.33.32.156 port 44019 ssh2
+Jun 14 07:00:42 srv-prod-01 sshd[9779]: Failed password for test from 193.32.162.55 port 8859 ssh2
+Jun 14 18:59:46 srv-prod-01 sshd[9817]: Failed password for sysadmin from 193.32.162.55 port 18724 ssh2
+Jun 14 12:29:27 srv-prod-01 sshd[3858]: pam_unix(sshd:session): session closed for user deploy
+Jun 14 15:15:48 srv-prod-01 sshd[9565]: Failed password for invalid user sysadmin from 45.33.32.156 port 39275 ssh2
+Jun 14 15:45:04 srv-prod-01 sshd[3507]: Connection closed by 172.16.0.76 port 34978 [preauth]
+Jun 14 12:11:54 srv-prod-01 sshd[3198]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Jun 14 05:48:52 srv-prod-01 sshd[8648]: Failed password for user1 from 185.160.97.196 port 34757 ssh2
+Jun 14 12:56:06 srv-prod-01 sshd[5374]: Failed password for deploy from 45.33.32.156 port 44944 ssh2
+Jun 14 04:13:40 srv-prod-01 sshd[7078]: Failed password for oracle from 172.16.0.127 port 30753 ssh2
+Jun 14 17:40:24 srv-prod-01 sshd[3167]: Failed password for deploy from 45.33.32.156 port 36363 ssh2
+Jun 14 16:33:58 srv-prod-01 sshd[8973]: Failed password for invalid user postgres from 45.33.32.156 port 28746 ssh2
+Jun 14 17:05:24 srv-prod-01 sshd[6582]: Failed password for invalid user user1 from 193.32.162.55 port 29890 ssh2
+Jun 14 13:48:12 srv-prod-01 sshd[7906]: Failed password for invalid user postgres from 193.32.162.55 port 50307 ssh2
+Jun 14 11:59:53 srv-prod-01 sshd[3230]: Connection closed by 172.16.0.70 port 57352 [preauth]
+Jun 14 07:31:54 srv-prod-01 sshd[8412]: Invalid user admin from 192.168.1.199 port 29739
+Jun 14 18:45:52 srv-prod-01 sshd[4131]: Invalid user postgres from 172.16.0.127 port 3423
+Jun 14 11:18:50 srv-prod-01 sshd[7684]: Failed password for invalid user carlos from 91.240.118.172 port 1920 ssh2
+Jun 14 06:26:46 srv-prod-01 sshd[1406]: Failed password for invalid user www-data from 45.33.32.156 port 28044 ssh2
+Jun 14 18:13:59 srv-prod-01 sshd[7499]: Accepted publickey for test from 26.223.118.215 port 40684 ssh2
+Jun 14 18:21:28 srv-prod-01 sshd[3662]: Connection closed by 192.168.1.143 port 22695 [preauth]
+Jun 14 07:33:55 srv-prod-01 sshd[5335]: Failed password for sysadmin from 91.240.118.172 port 14853 ssh2
+Jun 14 18:30:48 srv-prod-01 sshd[4509]: Disconnected from 192.168.1.199 port 63359
+Jun 14 18:21:33 srv-prod-01 sshd[2946]: Disconnected from 172.16.0.127 port 41868
+Jun 14 10:08:03 srv-prod-01 sshd[2867]: Disconnected from 17.52.95.94 port 31010
+Jun 14 13:22:28 srv-prod-01 sshd[3956]: Invalid user maria from 206.42.217.21 port 54916
+Jun 14 00:20:17 srv-prod-01 sshd[7919]: Connection closed by 10.0.222.18 port 57407 [preauth]
+Jun 14 12:06:13 srv-prod-01 sshd[6272]: Invalid user user1 from 172.16.0.127 port 62159
+Jun 14 21:37:13 srv-prod-01 sshd[6816]: Accepted publickey for git from 172.16.0.182 port 17292 ssh2
+Jun 14 14:52:25 srv-prod-01 sshd[8699]: Failed password for invalid user user1 from 91.240.118.172 port 46202 ssh2
+Jun 14 08:31:29 srv-prod-01 sshd[4496]: pam_unix(sshd:session): session closed for user admin
+Jun 14 18:07:10 srv-prod-01 sshd[5183]: pam_unix(sshd:session): session closed for user postgres
+Jun 14 10:55:18 srv-prod-01 sshd[1519]: pam_unix(sshd:session): session closed for user ftp
+Jun 14 08:33:04 srv-prod-01 sshd[4680]: Failed password for sysadmin from 45.33.32.156 port 21367 ssh2
+Jun 14 13:47:54 srv-prod-01 sshd[9098]: Failed password for test from 193.32.162.55 port 2904 ssh2
+Jun 14 23:18:06 srv-prod-01 sshd[4598]: Failed password for backup from 45.33.32.156 port 37524 ssh2
+Jun 14 12:53:58 srv-prod-01 sshd[8651]: Failed password for oracle from 45.33.32.156 port 27965 ssh2
+Jun 14 11:23:53 srv-prod-01 sshd[7843]: Invalid user backup from 10.0.115.138 port 42976
+Jun 14 06:03:22 srv-prod-01 sshd[7547]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 05:33:48 srv-prod-01 sshd[2052]: Failed password for backup from 193.32.162.55 port 15045 ssh2
+Jun 14 06:07:17 srv-prod-01 sshd[6724]: pam_unix(sshd:session): session opened for user carlos by (uid=0)
+Jun 14 06:14:23 srv-prod-01 sshd[2562]: pam_unix(sshd:session): session closed for user git
+Jun 14 02:42:04 srv-prod-01 sshd[5703]: Accepted publickey for root from 10.0.73.186 port 25189 ssh2
+Jun 14 16:45:32 srv-prod-01 sshd[4728]: Failed password for invalid user test from 45.33.32.156 port 21024 ssh2
+Jun 14 17:45:44 srv-prod-01 sshd[1274]: pam_unix(sshd:session): session opened for user oracle by (uid=0)
+Jun 14 06:30:16 srv-prod-01 sshd[2743]: Failed password for carlos from 45.33.32.156 port 60833 ssh2
+Jun 14 22:10:22 srv-prod-01 sshd[6567]: pam_unix(sshd:session): session closed for user git
+Jun 14 19:51:36 srv-prod-01 sshd[5843]: Accepted publickey for test from 192.168.1.108 port 44338 ssh2
+Jun 14 13:30:37 srv-prod-01 sshd[1647]: Accepted publickey for postgres from 192.168.1.143 port 25742 ssh2
+Jun 14 02:22:44 srv-prod-01 sshd[2213]: Failed password for oracle from 193.32.162.55 port 33251 ssh2
+Jun 14 19:15:16 srv-prod-01 sshd[1372]: Connection closed by 10.0.99.49 port 50580 [preauth]
+Jun 14 04:10:12 srv-prod-01 sshd[3683]: Failed password for git from 193.32.162.55 port 54717 ssh2
+Jun 14 16:31:13 srv-prod-01 sshd[5118]: Failed password for invalid user postgres from 193.32.162.55 port 21118 ssh2
+Jun 14 01:40:21 srv-prod-01 sshd[3588]: Accepted publickey for admin from 10.0.73.186 port 61935 ssh2
+Jun 14 18:47:01 srv-prod-01 sshd[8167]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jun 14 20:02:12 srv-prod-01 sshd[9856]: Failed password for admin from 45.33.32.156 port 4339 ssh2
+Jun 14 20:53:45 srv-prod-01 sshd[5566]: Invalid user test from 192.168.1.199 port 43593
+Jun 14 14:49:14 srv-prod-01 sshd[2588]: Failed password for deploy from 45.33.32.156 port 7205 ssh2
+Jun 14 20:26:03 srv-prod-01 sshd[9928]: Failed password for deploy from 45.33.32.156 port 47949 ssh2
+Jun 14 19:49:24 srv-prod-01 sshd[8450]: Accepted publickey for ftp from 16.203.141.49 port 55038 ssh2
+Jun 14 11:57:44 srv-prod-01 sshd[5106]: Failed password for ubuntu from 153.1.141.220 port 36427 ssh2
+Jun 14 15:34:19 srv-prod-01 sshd[4027]: Invalid user sysadmin from 172.16.0.182 port 7275
+Jun 14 20:12:13 srv-prod-01 sshd[8389]: Failed password for ubuntu from 172.16.0.227 port 21640 ssh2
+Jun 14 04:16:26 srv-prod-01 sshd[4385]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jun 14 18:07:58 srv-prod-01 sshd[7653]: Connection closed by 165.154.247.63 port 45915 [preauth]
+Jun 14 17:52:20 srv-prod-01 sshd[1200]: Failed password for admin from 193.32.162.55 port 58218 ssh2
+Jun 14 17:59:12 srv-prod-01 sshd[3126]: pam_unix(sshd:session): session opened for user test by (uid=0)
+Jun 14 19:09:15 srv-prod-01 sshd[6931]: Invalid user user1 from 172.16.0.182 port 52012
+Jun 14 16:50:48 srv-prod-01 sshd[4084]: Invalid user www-data from 172.16.0.76 port 54096
+Jun 14 22:24:54 srv-prod-01 sshd[4559]: Accepted publickey for backup from 172.16.0.132 port 25307 ssh2
+Jun 14 02:17:00 srv-prod-01 sshd[9540]: Accepted password for admin_db from 45.33.32.156 port 54321 ssh2
+Jun 14 17:40:53 srv-prod-01 sshd[7570]: Failed password for user1 from 45.33.32.156 port 15032 ssh2
+Jun 14 03:52:50 srv-prod-01 sshd[4585]: Failed password for invalid user git from 45.33.32.156 port 28886 ssh2
+Jun 14 11:53:43 srv-prod-01 sshd[8894]: Failed password for postgres from 34.187.139.213 port 60927 ssh2
+Jun 14 20:31:52 srv-prod-01 sshd[1356]: pam_unix(sshd:session): session closed for user git
+Jun 14 16:22:06 srv-prod-01 sshd[4371]: Accepted publickey for backup from 192.168.1.89 port 15100 ssh2
+Jun 14 13:46:55 srv-prod-01 sshd[5803]: Failed password for admin from 45.33.32.156 port 37202 ssh2
+Jun 14 02:44:58 srv-prod-01 sshd[5558]: Invalid user carlos from 172.16.0.182 port 50163
+Jun 14 17:38:52 srv-prod-01 sshd[4920]: Failed password for admin from 91.240.118.172 port 2915 ssh2
+Jun 14 22:01:16 srv-prod-01 sshd[6617]: Failed password for invalid user deploy from 45.33.32.156 port 48053 ssh2
+Jun 14 22:36:39 srv-prod-01 sshd[2625]: Failed password for root from 91.240.118.172 port 40976 ssh2
+Jun 14 21:51:37 srv-prod-01 sshd[1672]: Failed password for invalid user git from 193.32.162.55 port 8957 ssh2
+Jun 14 05:23:30 srv-prod-01 sshd[1685]: Failed password for invalid user oracle from 45.33.32.156 port 9376 ssh2
+Jun 14 09:46:20 srv-prod-01 sshd[7899]: Failed password for oracle from 172.16.0.182 port 19109 ssh2
+Jun 14 12:05:40 srv-prod-01 sshd[7745]: Failed password for git from 45.33.32.156 port 62025 ssh2
+Jun 14 20:47:27 srv-prod-01 sshd[4981]: Failed password for maria from 45.33.32.156 port 32000 ssh2
+Jun 14 00:30:54 srv-prod-01 sshd[3073]: Failed password for invalid user backup from 193.32.162.55 port 36029 ssh2
+Jun 14 14:28:49 srv-prod-01 sshd[5399]: Connection closed by 172.16.0.70 port 33445 [preauth]
+Jun 14 03:59:31 srv-prod-01 sshd[3621]: Failed password for ubuntu from 45.33.32.156 port 42144 ssh2
+Jun 14 08:54:47 srv-prod-01 sshd[7216]: Failed password for invalid user ubuntu from 45.33.32.156 port 31318 ssh2
+Jun 14 10:36:17 srv-prod-01 sshd[7825]: Disconnected from 192.168.1.90 port 38423
+Jun 14 12:01:19 srv-prod-01 sshd[3041]: Failed password for maria from 45.33.32.156 port 21596 ssh2
+Jun 14 06:10:41 srv-prod-01 sshd[5649]: Failed password for sysadmin from 45.33.32.156 port 6581 ssh2
+Jun 14 23:42:24 srv-prod-01 sshd[1496]: Invalid user maria from 10.0.115.138 port 42900
+Jun 14 23:38:17 srv-prod-01 sshd[9071]: Accepted publickey for root from 192.168.1.252 port 20970 ssh2
+Jun 14 16:31:50 srv-prod-01 sshd[4824]: Failed password for admin from 91.240.118.172 port 46072 ssh2
+Jun 14 19:16:31 srv-prod-01 sshd[2578]: Failed password for admin from 74.8.220.207 port 61189 ssh2
+Jun 14 11:14:52 srv-prod-01 sshd[5835]: pam_unix(sshd:session): session closed for user ubuntu
+Jun 14 18:43:45 srv-prod-01 sshd[3078]: Accepted publickey for postgres from 25.69.210.236 port 57846 ssh2
+Jun 14 00:56:30 srv-prod-01 sshd[1339]: Failed password for admin from 91.240.118.172 port 16026 ssh2
+Jun 14 12:41:58 srv-prod-01 sshd[9899]: Disconnected from 172.16.0.132 port 38607
+Jun 14 16:24:47 srv-prod-01 sshd[8613]: Failed password for deploy from 193.32.162.55 port 50207 ssh2
+Jun 14 10:57:26 srv-prod-01 sshd[1006]: Failed password for invalid user oracle from 45.33.32.156 port 36933 ssh2
+Jun 14 19:07:59 srv-prod-01 sshd[2838]: Accepted publickey for www-data from 192.168.1.199 port 37997 ssh2
+Jun 14 22:15:25 srv-prod-01 sshd[8501]: Disconnected from 192.168.1.108 port 56435
+Jun 14 18:02:22 srv-prod-01 sshd[7561]: Failed password for postgres from 91.240.118.172 port 44447 ssh2
+Jun 14 23:54:17 srv-prod-01 sshd[6731]: pam_unix(sshd:session): session closed for user ubuntu
+Jun 14 02:54:18 srv-prod-01 sshd[2654]: Failed password for invalid user ftp from 45.33.32.156 port 16280 ssh2
+Jun 14 14:43:14 srv-prod-01 sshd[8657]: Failed password for backup from 193.32.162.55 port 11840 ssh2
+Jun 14 10:45:52 srv-prod-01 sshd[4143]: Failed password for carlos from 45.33.32.156 port 9365 ssh2
+Jun 14 06:37:14 srv-prod-01 sshd[6813]: Failed password for user1 from 193.32.162.55 port 14925 ssh2
+Jun 14 11:37:10 srv-prod-01 sshd[6339]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jun 14 03:50:33 srv-prod-01 sshd[6934]: Failed password for oracle from 193.32.162.55 port 63990 ssh2
+Jun 14 17:11:15 srv-prod-01 sshd[7887]: Failed password for git from 172.16.0.70 port 9899 ssh2
+Jun 14 01:57:06 srv-prod-01 sshd[5978]: Failed password for invalid user ubuntu from 193.32.162.55 port 10801 ssh2
+Jun 14 03:23:44 srv-prod-01 sshd[4872]: Failed password for invalid user www-data from 45.33.32.156 port 50409 ssh2
+Jun 14 22:31:10 srv-prod-01 sshd[6925]: Failed password for www-data from 45.33.32.156 port 57496 ssh2
+Jun 14 15:39:30 srv-prod-01 sshd[8430]: Invalid user test from 10.0.99.49 port 55249
+Jun 14 02:16:03 srv-prod-01 sshd[3837]: Invalid user test from 144.166.244.135 port 63721
+Jun 14 18:08:58 srv-prod-01 sshd[1845]: Failed password for invalid user sysadmin from 91.240.118.172 port 29993 ssh2
+Jun 14 11:50:22 srv-prod-01 sshd[9282]: pam_unix(sshd:session): session opened for user postgres by (uid=0)
+Jun 14 15:58:55 srv-prod-01 sshd[1924]: Connection closed by 192.168.1.143 port 51884 [preauth]
+Jun 14 14:37:20 srv-prod-01 sshd[8267]: Invalid user backup from 192.168.1.108 port 60642
+Jun 14 09:00:41 srv-prod-01 sshd[2848]: Disconnected from 192.168.1.252 port 62458
+Jun 14 15:09:56 srv-prod-01 sshd[4728]: pam_unix(sshd:session): session opened for user user1 by (uid=0)
+Jun 14 10:08:29 srv-prod-01 sshd[2235]: Failed password for user1 from 45.33.32.156 port 17395 ssh2
+Jun 14 22:47:30 srv-prod-01 sshd[6642]: Invalid user root from 172.16.0.127 port 64744
+Jun 14 20:40:20 srv-prod-01 sshd[7643]: Failed password for maria from 192.168.1.143 port 57132 ssh2
+Jun 14 19:44:18 srv-prod-01 sshd[1104]: Connection closed by 135.17.38.242 port 4203 [preauth]
+Jun 14 05:07:10 srv-prod-01 sshd[4858]: Accepted publickey for postgres from 10.0.99.49 port 26161 ssh2
+Jun 14 22:30:57 srv-prod-01 sshd[9561]: Failed password for invalid user deploy from 193.32.162.55 port 51859 ssh2
+Jun 14 09:00:06 srv-prod-01 sshd[5543]: Failed password for ftp from 45.33.32.156 port 42813 ssh2
+Jun 14 01:52:14 srv-prod-01 sshd[8827]: Failed password for invalid user postgres from 193.32.162.55 port 62697 ssh2
+Jun 14 16:42:30 srv-prod-01 sshd[5833]: Accepted publickey for backup from 192.168.1.64 port 23116 ssh2
+Jun 14 19:48:33 srv-prod-01 sshd[8702]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 14 09:52:17 srv-prod-01 sshd[9700]: Accepted publickey for sysadmin from 36.55.122.63 port 60346 ssh2
+Jun 14 19:44:06 srv-prod-01 sshd[2677]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Jun 14 21:43:35 srv-prod-01 sshd[3352]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Jun 14 11:17:42 srv-prod-01 sshd[6381]: pam_unix(sshd:session): session opened for user oracle by (uid=0)
+Jun 14 02:31:04 srv-prod-01 sshd[3525]: Disconnected from 105.255.71.163 port 17583
+Jun 14 05:18:00 srv-prod-01 sshd[3950]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 00:02:30 srv-prod-01 sshd[9889]: Failed password for sysadmin from 91.240.118.172 port 57998 ssh2
+Jun 14 07:45:38 srv-prod-01 sshd[3170]: Failed password for carlos from 45.33.32.156 port 18404 ssh2
+Jun 14 04:25:06 srv-prod-01 sshd[8612]: Failed password for user1 from 45.33.32.156 port 9762 ssh2
+Jun 14 05:25:36 srv-prod-01 sshd[7049]: Failed password for carlos from 45.33.32.156 port 3385 ssh2
+Jun 14 10:44:51 srv-prod-01 sshd[5026]: Failed password for oracle from 10.0.222.18 port 38365 ssh2
+Jun 14 22:02:34 srv-prod-01 sshd[4522]: Connection closed by 192.168.1.108 port 43682 [preauth]
+Jun 14 10:56:18 srv-prod-01 sshd[7524]: Invalid user test from 192.168.1.143 port 12665
+Jun 14 09:29:39 srv-prod-01 sshd[6147]: Failed password for invalid user deploy from 45.33.32.156 port 44915 ssh2
+Jun 14 03:53:49 srv-prod-01 sshd[3546]: Failed password for invalid user backup from 45.33.32.156 port 37280 ssh2
+Jun 14 14:03:24 srv-prod-01 sshd[6439]: Accepted publickey for ubuntu from 167.77.253.247 port 33942 ssh2
+Jun 14 10:24:13 srv-prod-01 sshd[5333]: Invalid user ubuntu from 192.168.1.108 port 58856
+Jun 14 07:04:03 srv-prod-01 sshd[6912]: Failed password for invalid user postgres from 193.32.162.55 port 15932 ssh2
+Jun 14 15:13:47 srv-prod-01 sshd[9796]: pam_unix(sshd:session): session closed for user www-data
+Jun 14 04:07:51 srv-prod-01 sshd[2924]: Failed password for user1 from 91.240.118.172 port 63090 ssh2
+Jun 14 19:46:16 srv-prod-01 sshd[6152]: Failed password for www-data from 172.16.0.76 port 56757 ssh2
+Jun 14 18:41:11 srv-prod-01 sshd[1710]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Jun 14 14:36:21 srv-prod-01 sshd[4456]: Failed password for postgres from 45.33.32.156 port 5361 ssh2
+Jun 14 10:56:03 srv-prod-01 sshd[7691]: Failed password for invalid user carlos from 45.33.32.156 port 21293 ssh2
+Jun 14 22:59:16 srv-prod-01 sshd[9312]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 14 02:14:54 srv-prod-01 sshd[2904]: Connection closed by 52.76.84.84 port 29980 [preauth]
+Jun 14 19:53:02 srv-prod-01 sshd[4613]: Failed password for git from 193.32.162.55 port 40558 ssh2
+Jun 14 05:02:11 srv-prod-01 sshd[2489]: Failed password for carlos from 45.33.32.156 port 33367 ssh2
+Jun 14 15:35:48 srv-prod-01 sshd[2129]: Failed password for sysadmin from 193.32.162.55 port 25309 ssh2
+Jun 14 18:10:35 srv-prod-01 sshd[8517]: Failed password for invalid user oracle from 45.33.32.156 port 59002 ssh2
+Jun 14 18:13:17 srv-prod-01 sshd[8172]: Failed password for invalid user carlos from 91.240.118.172 port 33385 ssh2
+Jun 14 23:39:56 srv-prod-01 sshd[5102]: Accepted publickey for sysadmin from 172.16.0.132 port 24645 ssh2
+Jun 14 21:43:13 srv-prod-01 sshd[6139]: Failed password for oracle from 45.33.32.156 port 23678 ssh2
+Jun 14 22:45:24 srv-prod-01 sshd[3219]: Failed password for user1 from 192.168.1.90 port 8034 ssh2
+Jun 14 19:05:32 srv-prod-01 sshd[6807]: pam_unix(sshd:session): session opened for user carlos by (uid=0)
+Jun 14 00:59:12 srv-prod-01 sshd[8022]: Failed password for invalid user admin from 193.32.162.55 port 43147 ssh2
+Jun 14 16:33:29 srv-prod-01 sshd[7086]: pam_unix(sshd:session): session opened for user oracle by (uid=0)
+Jun 14 02:31:56 srv-prod-01 sshd[4733]: Failed password for root from 45.33.32.156 port 44360 ssh2
+Jun 14 03:39:38 srv-prod-01 sshd[3587]: Accepted publickey for carlos from 192.168.1.252 port 65112 ssh2
+Jun 14 14:01:33 srv-prod-01 sshd[4977]: Invalid user git from 172.16.0.70 port 6574
+Jun 14 05:43:05 srv-prod-01 sshd[2229]: Failed password for invalid user deploy from 91.240.118.172 port 12415 ssh2
+Jun 14 20:49:27 srv-prod-01 sshd[5933]: Failed password for ubuntu from 192.168.1.89 port 18647 ssh2
+Jun 14 11:09:33 srv-prod-01 sshd[6759]: Failed password for backup from 172.16.0.70 port 30115 ssh2
+Jun 14 19:13:46 srv-prod-01 sshd[5593]: Accepted publickey for sysadmin from 223.243.138.12 port 61683 ssh2
+Jun 14 23:02:40 srv-prod-01 sshd[2530]: Failed password for maria from 45.33.32.156 port 22990 ssh2
+Jun 14 16:16:46 srv-prod-01 sshd[1939]: pam_unix(sshd:session): session opened for user oracle by (uid=0)
+Jun 14 07:42:22 srv-prod-01 sshd[6529]: Failed password for user1 from 193.32.162.55 port 22444 ssh2
+Jun 14 03:20:21 srv-prod-01 sshd[7126]: Accepted publickey for oracle from 116.178.13.107 port 33923 ssh2
+Jun 14 18:35:54 srv-prod-01 sshd[7931]: Failed password for maria from 192.168.1.90 port 26170 ssh2
+Jun 14 13:49:27 srv-prod-01 sshd[6674]: Disconnected from 89.74.148.11 port 6203
+Jun 14 11:24:09 srv-prod-01 sshd[3316]: Accepted publickey for ubuntu from 172.16.0.227 port 25488 ssh2
+Jun 14 19:04:36 srv-prod-01 sshd[6456]: pam_unix(sshd:session): session closed for user test
+Jun 14 01:40:28 srv-prod-01 sshd[8056]: Disconnected from 172.16.0.76 port 25589
+Jun 14 15:00:53 srv-prod-01 sshd[1149]: Accepted publickey for backup from 10.0.99.49 port 10921 ssh2
+Jun 14 21:27:58 srv-prod-01 sshd[5636]: Failed password for git from 193.32.162.55 port 35406 ssh2
+Jun 14 16:06:23 srv-prod-01 sshd[9824]: Failed password for deploy from 192.168.1.216 port 55284 ssh2
+Jun 14 10:00:48 srv-prod-01 sshd[3286]: Failed password for deploy from 45.33.32.156 port 15652 ssh2
+Jun 14 19:58:52 srv-prod-01 sshd[4906]: Disconnected from 109.56.147.61 port 4153
+Jun 14 03:24:40 srv-prod-01 sshd[9279]: Failed password for deploy from 45.33.32.156 port 16271 ssh2
+Jun 14 00:47:55 srv-prod-01 sshd[5689]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Jun 14 13:58:44 srv-prod-01 sshd[9006]: pam_unix(sshd:session): session closed for user ftp
+Jun 14 12:30:15 srv-prod-01 sshd[8172]: Accepted publickey for deploy from 91.240.118.172 port 47398 ssh2
+Jun 14 09:31:23 srv-prod-01 sshd[8692]: Invalid user admin from 192.168.1.216 port 53637
+Jun 14 13:38:01 srv-prod-01 sshd[9835]: pam_unix(sshd:session): session closed for user sysadmin
+Jun 14 16:53:31 srv-prod-01 sshd[8245]: Invalid user admin from 115.165.161.39 port 31755
+Jun 14 09:06:08 srv-prod-01 sshd[2680]: Connection closed by 192.168.1.216 port 37366 [preauth]
+Jun 14 05:36:58 srv-prod-01 sshd[8170]: Connection closed by 192.168.1.90 port 11872 [preauth]
+Jun 14 05:22:49 srv-prod-01 sshd[3481]: Invalid user test from 147.56.97.5 port 28469
+Jun 14 08:31:11 srv-prod-01 sshd[4178]: Connection closed by 172.16.0.227 port 31761 [preauth]
+Jun 14 04:40:28 srv-prod-01 sshd[3705]: Failed password for invalid user sysadmin from 45.33.32.156 port 32172 ssh2
+Jun 14 02:40:32 srv-prod-01 sshd[9984]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 16:15:54 srv-prod-01 sshd[2017]: Disconnected from 78.5.133.168 port 16510
+Jun 14 09:48:45 srv-prod-01 sshd[3870]: Failed password for maria from 91.240.118.172 port 3660 ssh2
+Jun 14 04:31:55 srv-prod-01 sshd[9151]: Failed password for user1 from 103.225.197.87 port 46379 ssh2
+Jun 14 20:17:28 srv-prod-01 sshd[3024]: Accepted publickey for postgres from 192.168.1.89 port 36188 ssh2
+Jun 14 23:47:58 srv-prod-01 sshd[8193]: Connection closed by 9.230.134.90 port 6724 [preauth]
+Jun 14 01:58:20 srv-prod-01 sshd[2612]: Failed password for invalid user sysadmin from 45.33.32.156 port 43848 ssh2
+Jun 14 16:15:15 srv-prod-01 sshd[7590]: Failed password for backup from 172.16.0.76 port 3923 ssh2
+Jun 14 02:38:59 srv-prod-01 sshd[4555]: pam_unix(sshd:session): session closed for user sysadmin
+Jun 14 03:15:46 srv-prod-01 sshd[6315]: pam_unix(sshd:session): session opened for user maria by (uid=0)
+Jun 14 18:10:44 srv-prod-01 sshd[9005]: Disconnected from 10.0.222.18 port 54867
+Jun 14 09:30:37 srv-prod-01 sshd[5349]: Failed password for invalid user ubuntu from 45.33.32.156 port 39073 ssh2
+Jun 14 05:47:41 srv-prod-01 sshd[8777]: Failed password for backup from 45.33.32.156 port 57482 ssh2
+Jun 14 18:29:22 srv-prod-01 sshd[4044]: Failed password for invalid user admin from 45.33.32.156 port 56817 ssh2
+Jun 14 02:58:13 srv-prod-01 sshd[7785]: Invalid user maria from 172.16.0.70 port 29993
+Jun 14 21:39:53 srv-prod-01 sshd[5728]: Failed password for backup from 91.240.118.172 port 55041 ssh2
+Jun 14 03:07:33 srv-prod-01 sshd[8460]: Disconnected from 192.168.1.252 port 23507
+Jun 14 11:56:27 srv-prod-01 sshd[9025]: Connection closed by 101.153.172.130 port 35911 [preauth]
+Jun 14 09:56:44 srv-prod-01 sshd[2816]: Accepted publickey for test from 172.16.0.150 port 29198 ssh2
+Jun 14 12:25:25 srv-prod-01 sshd[7882]: Failed password for root from 193.32.162.55 port 56701 ssh2
+Jun 14 13:48:15 srv-prod-01 sshd[3851]: Failed password for sysadmin from 45.33.32.156 port 50053 ssh2
+Jun 14 05:03:11 srv-prod-01 sshd[3449]: Disconnected from 158.2.40.5 port 55744
+Jun 14 22:28:38 srv-prod-01 sshd[3194]: pam_unix(sshd:session): session opened for user maria by (uid=0)
+Jun 14 01:35:06 srv-prod-01 sshd[6850]: Disconnected from 192.168.1.199 port 2088
+Jun 14 12:34:28 srv-prod-01 sshd[6228]: pam_unix(sshd:session): session opened for user carlos by (uid=0)
+Jun 14 20:29:43 srv-prod-01 sshd[2795]: Disconnected from 10.0.128.239 port 45182
+Jun 14 18:48:35 srv-prod-01 sshd[4954]: Failed password for deploy from 193.32.162.55 port 6634 ssh2
+Jun 14 03:56:08 srv-prod-01 sshd[6111]: Failed password for maria from 193.32.162.55 port 2706 ssh2
+Jun 14 16:08:35 srv-prod-01 sshd[7018]: Connection closed by 10.0.99.49 port 7535 [preauth]
+Jun 14 06:45:47 srv-prod-01 sshd[3838]: pam_unix(sshd:session): session closed for user www-data
+Jun 14 11:41:36 srv-prod-01 sshd[4804]: Connection closed by 172.16.0.76 port 43773 [preauth]
+Jun 14 14:26:27 srv-prod-01 sshd[6053]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 08:12:16 srv-prod-01 sshd[1944]: Connection closed by 192.168.1.252 port 60972 [preauth]
+Jun 14 11:42:23 srv-prod-01 sshd[2695]: Failed password for root from 172.16.0.150 port 30549 ssh2
+Jun 14 02:23:59 srv-prod-01 sshd[5128]: pam_unix(sshd:session): session closed for user oracle
+Jun 14 15:22:13 srv-prod-01 sshd[7304]: Failed password for invalid user maria from 45.33.32.156 port 5187 ssh2
+Jun 14 12:44:50 srv-prod-01 sshd[1430]: Invalid user ftp from 196.142.115.207 port 37787
+Jun 14 12:32:36 srv-prod-01 sshd[3114]: pam_unix(sshd:session): session closed for user maria
+Jun 14 04:35:45 srv-prod-01 sshd[1530]: Disconnected from 192.168.1.199 port 63248
+Jun 14 20:31:14 srv-prod-01 sshd[5336]: Accepted publickey for root from 10.0.128.239 port 63187 ssh2
+Jun 14 12:44:30 srv-prod-01 sshd[2124]: Failed password for deploy from 193.32.162.55 port 43631 ssh2
+Jun 14 11:08:55 srv-prod-01 sshd[7046]: Failed password for sysadmin from 193.32.162.55 port 39136 ssh2
+Jun 14 02:43:27 srv-prod-01 sshd[7512]: Disconnected from 172.16.0.132 port 46421
+Jun 14 03:07:12 srv-prod-01 sshd[3527]: Failed password for oracle from 64.37.42.69 port 47664 ssh2
+Jun 14 19:19:48 srv-prod-01 sshd[6419]: Failed password for invalid user test from 193.32.162.55 port 28909 ssh2
+Jun 14 18:51:29 srv-prod-01 sshd[5082]: Failed password for user1 from 45.33.32.156 port 4315 ssh2
+Jun 14 23:39:35 srv-prod-01 sshd[9742]: Connection closed by 10.0.222.18 port 57341 [preauth]
+Jun 14 12:57:16 srv-prod-01 sshd[7227]: Invalid user ubuntu from 192.168.1.89 port 45568
+Jun 14 02:02:11 srv-prod-01 sshd[1525]: Failed password for deploy from 45.33.32.156 port 54881 ssh2
+Jun 14 07:01:53 srv-prod-01 sshd[5564]: Failed password for oracle from 45.33.32.156 port 22536 ssh2
+Jun 14 23:05:30 srv-prod-01 sshd[9280]: Failed password for ftp from 45.33.32.156 port 18324 ssh2
+Jun 14 01:11:25 srv-prod-01 sshd[8492]: Disconnected from 172.16.0.127 port 52190
+Jun 14 22:45:27 srv-prod-01 sshd[4241]: Failed password for maria from 91.240.118.172 port 44355 ssh2
+Jun 14 01:38:56 srv-prod-01 sshd[2130]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 14 21:17:02 srv-prod-01 sshd[7543]: Failed password for invalid user oracle from 45.33.32.156 port 59863 ssh2
+Jun 14 08:48:05 srv-prod-01 sshd[2586]: Invalid user deploy from 172.16.0.132 port 10256
+Jun 14 14:57:23 srv-prod-01 sshd[9476]: Accepted publickey for user1 from 19.64.162.165 port 31552 ssh2
+Jun 14 05:05:01 srv-prod-01 sshd[9830]: Failed password for invalid user deploy from 45.33.32.156 port 49847 ssh2
+Jun 14 19:51:22 srv-prod-01 sshd[7912]: Failed password for invalid user admin from 45.33.32.156 port 39722 ssh2
+Jun 14 07:57:48 srv-prod-01 sshd[8916]: Accepted publickey for maria from 192.168.1.199 port 42818 ssh2
+Jun 14 20:20:59 srv-prod-01 sshd[8251]: Failed password for maria from 45.33.32.156 port 21818 ssh2
+Jun 14 10:49:45 srv-prod-01 sshd[8933]: Failed password for user1 from 172.16.0.76 port 28262 ssh2
+Jun 14 01:35:26 srv-prod-01 sshd[8355]: Invalid user maria from 10.0.99.49 port 19697
+Jun 14 13:26:14 srv-prod-01 sshd[2526]: Disconnected from 192.168.1.216 port 1186
+Jun 14 09:56:14 srv-prod-01 sshd[1475]: Failed password for invalid user oracle from 193.32.162.55 port 32851 ssh2
+Jun 14 15:34:17 srv-prod-01 sshd[2832]: Failed password for invalid user carlos from 45.33.32.156 port 1657 ssh2
+Jun 14 17:49:14 srv-prod-01 sshd[8405]: pam_unix(sshd:session): session closed for user oracle
+Jun 14 14:36:50 srv-prod-01 sshd[6456]: Accepted publickey for ubuntu from 172.16.0.76 port 47789 ssh2
+Jun 14 12:26:31 srv-prod-01 sshd[2657]: Disconnected from 58.70.79.20 port 52674
+Jun 14 20:28:33 srv-prod-01 sshd[7363]: pam_unix(sshd:session): session opened for user carlos by (uid=0)
+Jun 14 18:17:53 srv-prod-01 sshd[6531]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jun 14 21:01:30 srv-prod-01 sshd[3347]: Failed password for postgres from 10.0.222.18 port 58450 ssh2
+Jun 14 15:02:07 srv-prod-01 sshd[8726]: pam_unix(sshd:session): session opened for user git by (uid=0)
+Jun 14 22:12:44 srv-prod-01 sshd[5951]: pam_unix(sshd:session): session closed for user ftp
+Jun 14 12:04:23 srv-prod-01 sshd[4621]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Jun 14 22:05:07 srv-prod-01 sshd[4470]: Failed password for oracle from 45.33.32.156 port 64224 ssh2
+Jun 14 13:23:33 srv-prod-01 sshd[5616]: Invalid user user1 from 10.0.115.138 port 51449
+Jun 14 04:49:52 srv-prod-01 sshd[7434]: Connection closed by 10.0.222.18 port 50927 [preauth]
+Jun 14 10:51:57 srv-prod-01 sshd[9317]: Failed password for ftp from 45.33.32.156 port 42898 ssh2
+Jun 14 02:37:27 srv-prod-01 sshd[2275]: Invalid user root from 172.16.0.76 port 31154
+Jun 14 23:43:46 srv-prod-01 sshd[1508]: Failed password for root from 193.32.162.55 port 50453 ssh2
+Jun 14 10:54:49 srv-prod-01 sshd[5040]: Disconnected from 172.16.0.182 port 62904
+Jun 14 01:59:06 srv-prod-01 sshd[3068]: Failed password for carlos from 193.32.162.55 port 20169 ssh2
+Jun 14 23:35:39 srv-prod-01 sshd[3803]: Failed password for admin from 45.33.32.156 port 40944 ssh2
+Jun 14 19:44:26 srv-prod-01 sshd[6138]: Failed password for invalid user root from 45.33.32.156 port 50043 ssh2
+Jun 14 02:58:55 srv-prod-01 sshd[9837]: Failed password for invalid user user1 from 193.32.162.55 port 2294 ssh2
+Jun 14 20:44:28 srv-prod-01 sshd[1651]: Failed password for deploy from 45.33.32.156 port 38964 ssh2
+Jun 14 17:03:53 srv-prod-01 sshd[7594]: Failed password for backup from 91.240.118.172 port 20952 ssh2
+Jun 14 05:37:37 srv-prod-01 sshd[4878]: Failed password for www-data from 45.33.32.156 port 61964 ssh2
+Jun 14 22:39:20 srv-prod-01 sshd[7455]: Failed password for carlos from 193.32.162.55 port 2791 ssh2
+Jun 14 10:18:45 srv-prod-01 sshd[6053]: Invalid user carlos from 10.0.115.138 port 44745
+Jun 14 04:42:12 srv-prod-01 sshd[6802]: pam_unix(sshd:session): session opened for user carlos by (uid=0)
+Jun 14 09:02:10 srv-prod-01 sshd[7818]: Failed password for admin from 193.32.162.55 port 37597 ssh2
+Jun 14 13:37:40 srv-prod-01 sshd[2582]: Accepted publickey for admin from 122.34.46.213 port 29327 ssh2
+Jun 14 01:27:09 srv-prod-01 sshd[4441]: Failed password for www-data from 45.33.32.156 port 24473 ssh2
+Jun 14 05:48:46 srv-prod-01 sshd[6574]: Failed password for invalid user backup from 45.33.32.156 port 28720 ssh2
+Jun 14 07:32:04 srv-prod-01 sshd[5380]: pam_unix(sshd:session): session closed for user postgres
+Jun 14 18:58:41 srv-prod-01 sshd[3869]: Disconnected from 172.16.0.227 port 37509
+Jun 14 21:16:09 srv-prod-01 sshd[9701]: Failed password for invalid user user1 from 45.33.32.156 port 33978 ssh2
+Jun 14 01:24:35 srv-prod-01 sshd[4644]: Failed password for invalid user ftp from 45.33.32.156 port 31871 ssh2
+Jun 14 11:04:22 srv-prod-01 sshd[9501]: pam_unix(sshd:session): session closed for user deploy
+Jun 14 04:50:31 srv-prod-01 sshd[7439]: Accepted publickey for ubuntu from 192.168.1.199 port 36233 ssh2
+Jun 14 04:10:14 srv-prod-01 sshd[9797]: Failed password for sysadmin from 45.33.32.156 port 59009 ssh2
+Jun 14 00:34:12 srv-prod-01 sshd[7375]: Failed password for maria from 193.203.39.77 port 16783 ssh2
+Jun 14 07:20:22 srv-prod-01 sshd[6080]: Accepted publickey for test from 192.168.1.143 port 62193 ssh2
+Jun 14 03:56:41 srv-prod-01 sshd[6374]: Accepted publickey for maria from 192.168.1.216 port 58973 ssh2
+Jun 14 10:48:10 srv-prod-01 sshd[1958]: Failed password for deploy from 45.33.32.156 port 64509 ssh2
+Jun 14 09:06:20 srv-prod-01 sshd[8916]: Failed password for oracle from 172.16.0.227 port 56948 ssh2
+Jun 14 15:24:20 srv-prod-01 sshd[9300]: pam_unix(sshd:session): session opened for user oracle by (uid=0)
+Jun 14 12:02:49 srv-prod-01 sshd[7812]: Failed password for invalid user carlos from 193.32.162.55 port 31558 ssh2
+Jun 14 23:20:12 srv-prod-01 sshd[5808]: Failed password for test from 45.33.32.156 port 8334 ssh2
+Jun 14 06:55:06 srv-prod-01 sshd[4350]: Failed password for backup from 162.247.74.201 port 40634 ssh2
+Jun 14 03:52:59 srv-prod-01 sshd[5837]: Disconnected from 10.0.115.138 port 20414
+Jun 14 16:44:09 srv-prod-01 sshd[5890]: Failed password for postgres from 91.135.247.50 port 37598 ssh2
+Jun 14 05:33:52 srv-prod-01 sshd[3646]: Failed password for test from 45.33.32.156 port 50995 ssh2
+Jun 14 12:38:57 srv-prod-01 sshd[3852]: pam_unix(sshd:session): session closed for user www-data
+Jun 14 18:09:33 srv-prod-01 sshd[6781]: Failed password for deploy from 24.201.234.248 port 39254 ssh2
+Jun 14 09:33:07 srv-prod-01 sshd[7367]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 22:01:50 srv-prod-01 sshd[2259]: Disconnected from 10.0.73.186 port 30118
+Jun 14 07:28:42 srv-prod-01 sshd[8484]: Failed password for carlos from 131.228.28.117 port 28249 ssh2
+Jun 14 23:21:48 srv-prod-01 sshd[4015]: pam_unix(sshd:session): session closed for user carlos
+Jun 14 06:44:27 srv-prod-01 sshd[8933]: Failed password for invalid user deploy from 193.32.162.55 port 15204 ssh2
+Jun 14 19:40:52 srv-prod-01 sshd[2284]: Connection closed by 192.168.1.252 port 48482 [preauth]
+Jun 14 09:32:15 srv-prod-01 sshd[8239]: Failed password for ubuntu from 45.33.32.156 port 49601 ssh2
+Jun 14 07:39:09 srv-prod-01 sshd[6279]: Failed password for oracle from 45.33.32.156 port 52519 ssh2
+Jun 14 11:20:46 srv-prod-01 sshd[1815]: Failed password for git from 146.43.26.40 port 41514 ssh2
+Jun 14 07:19:25 srv-prod-01 sshd[7537]: Failed password for backup from 45.33.32.156 port 21452 ssh2
+Jun 14 12:23:28 srv-prod-01 sshd[5526]: Failed password for postgres from 193.32.162.55 port 58716 ssh2
+Jun 14 14:48:54 srv-prod-01 sshd[5706]: Invalid user sysadmin from 192.168.1.216 port 14095
+Jun 14 09:19:46 srv-prod-01 sshd[3749]: Failed password for git from 193.32.162.55 port 25199 ssh2
+Jun 14 01:36:18 srv-prod-01 sshd[3143]: Failed password for root from 45.33.32.156 port 22883 ssh2
+Jun 14 16:13:49 srv-prod-01 sshd[9199]: Connection closed by 10.0.73.186 port 39597 [preauth]
+Jun 14 21:55:57 srv-prod-01 sshd[9095]: Failed password for git from 172.16.0.182 port 42177 ssh2
+Jun 14 12:46:59 srv-prod-01 sshd[3842]: Failed password for postgres from 209.75.120.27 port 13952 ssh2
+Jun 14 09:31:51 srv-prod-01 sshd[2213]: Accepted publickey for ubuntu from 55.146.251.52 port 56914 ssh2
+Jun 14 09:01:33 srv-prod-01 sshd[6539]: Failed password for invalid user deploy from 45.33.32.156 port 5220 ssh2
+Jun 14 19:59:47 srv-prod-01 sshd[5719]: Failed password for ubuntu from 91.240.118.172 port 61819 ssh2
+Jun 14 01:52:11 srv-prod-01 sshd[7229]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 08:16:57 srv-prod-01 sshd[1474]: pam_unix(sshd:session): session closed for user postgres
+Jun 14 03:39:14 srv-prod-01 sshd[3529]: Failed password for oracle from 135.233.7.185 port 58101 ssh2
+Jun 14 01:52:23 srv-prod-01 sshd[2773]: pam_unix(sshd:session): session closed for user user1
+Jun 14 08:11:13 srv-prod-01 sshd[8861]: pam_unix(sshd:session): session closed for user user1
+Jun 14 11:36:40 srv-prod-01 sshd[1370]: Connection closed by 172.16.0.76 port 8566 [preauth]
+Jun 14 22:50:13 srv-prod-01 sshd[5941]: Failed password for deploy from 193.32.162.55 port 7702 ssh2
+Jun 14 12:46:49 srv-prod-01 sshd[2140]: pam_unix(sshd:session): session opened for user sysadmin by (uid=0)
+Jun 14 01:58:24 srv-prod-01 sshd[6927]: Failed password for deploy from 91.240.118.172 port 35000 ssh2
+Jun 14 16:31:10 srv-prod-01 sshd[5315]: Failed password for root from 45.33.32.156 port 63533 ssh2
+Jun 14 20:39:01 srv-prod-01 sshd[6155]: Failed password for invalid user www-data from 45.33.32.156 port 48073 ssh2
+Jun 14 22:15:20 srv-prod-01 sshd[2193]: Failed password for ftp from 45.33.32.156 port 51387 ssh2
+Jun 14 16:48:35 srv-prod-01 sshd[5262]: Failed password for invalid user ubuntu from 193.32.162.55 port 4319 ssh2
+Jun 14 03:31:16 srv-prod-01 sshd[6635]: Failed password for test from 45.33.32.156 port 56565 ssh2
+Jun 14 19:18:34 srv-prod-01 sshd[6310]: Failed password for www-data from 45.33.32.156 port 1061 ssh2
+Jun 14 08:35:03 srv-prod-01 sshd[6221]: Disconnected from 172.16.0.182 port 2871
+Jun 14 01:34:55 srv-prod-01 sshd[9785]: Failed password for invalid user backup from 45.33.32.156 port 31132 ssh2
+Jun 14 17:41:39 srv-prod-01 sshd[9727]: Failed password for ftp from 45.33.32.156 port 5559 ssh2
+Jun 14 08:52:05 srv-prod-01 sshd[4817]: Failed password for ftp from 53.35.106.151 port 58020 ssh2
+Jun 14 14:24:57 srv-prod-01 sshd[2196]: pam_unix(sshd:session): session closed for user deploy
+Jun 14 09:02:07 srv-prod-01 sshd[2771]: Failed password for invalid user postgres from 45.33.32.156 port 11457 ssh2
+Jun 14 01:46:17 srv-prod-01 sshd[8710]: pam_unix(sshd:session): session opened for user www-data by (uid=0)
+Jun 14 02:47:37 srv-prod-01 sshd[7299]: pam_unix(sshd:session): session opened for user maria by (uid=0)
+Jun 14 19:49:36 srv-prod-01 sshd[3441]: Failed password for deploy from 91.240.118.172 port 43467 ssh2
+Jun 14 13:50:08 srv-prod-01 sshd[5708]: Accepted publickey for deploy from 195.249.18.159 port 42387 ssh2
+Jun 14 18:29:03 srv-prod-01 sshd[7172]: Connection closed by 135.19.172.225 port 9612 [preauth]
+Jun 14 03:48:30 srv-prod-01 sshd[6403]: Failed password for ftp from 91.240.118.172 port 11563 ssh2
+Jun 14 17:21:36 srv-prod-01 sshd[8291]: Failed password for carlos from 10.0.115.138 port 45587 ssh2
+Jun 14 03:23:16 srv-prod-01 sshd[7625]: Failed password for postgres from 193.32.162.55 port 15546 ssh2
+Jun 14 08:25:40 srv-prod-01 sshd[5632]: Failed password for postgres from 91.240.118.172 port 47355 ssh2
+Jun 14 07:50:21 srv-prod-01 sshd[2674]: Failed password for invalid user git from 45.33.32.156 port 23083 ssh2
+Jun 14 10:32:27 srv-prod-01 sshd[8538]: Disconnected from 10.0.128.239 port 53539
+Jun 14 03:00:03 srv-prod-01 sshd[6005]: Accepted publickey for oracle from 192.168.1.64 port 42023 ssh2
+Jun 14 15:17:07 srv-prod-01 sshd[9189]: Invalid user admin from 192.168.1.90 port 8289
+Jun 14 09:05:17 srv-prod-01 sshd[2929]: Invalid user carlos from 91.240.118.172 port 26385
+Jun 14 13:34:03 srv-prod-01 sshd[7929]: Disconnected from 151.168.62.106 port 44627
+Jun 14 19:39:58 srv-prod-01 sshd[3471]: Failed password for invalid user admin from 193.32.162.55 port 10092 ssh2
+Jun 14 05:59:39 srv-prod-01 sshd[7396]: Failed password for invalid user oracle from 45.33.32.156 port 1165 ssh2
+Jun 14 17:06:45 srv-prod-01 sshd[6460]: Failed password for invalid user test from 91.240.118.172 port 27785 ssh2
+Jun 14 14:31:02 srv-prod-01 sshd[5176]: Disconnected from 192.168.1.108 port 21505
+Jun 14 10:24:10 srv-prod-01 sshd[6502]: Failed password for invalid user deploy from 193.32.162.55 port 18831 ssh2
+Jun 14 05:25:58 srv-prod-01 sshd[4948]: Connection closed by 192.168.1.64 port 32056 [preauth]
+Jun 14 05:06:07 srv-prod-01 sshd[6224]: Failed password for ftp from 172.16.0.227 port 61080 ssh2
+Jun 14 17:02:28 srv-prod-01 sshd[1188]: Failed password for carlos from 45.33.32.156 port 17500 ssh2
+Jun 14 16:11:32 srv-prod-01 sshd[4070]: Accepted publickey for ubuntu from 172.16.0.132 port 6745 ssh2
+Jun 14 16:44:18 srv-prod-01 sshd[8135]: Failed password for invalid user backup from 193.32.162.55 port 11050 ssh2
+Jun 14 20:01:42 srv-prod-01 sshd[2442]: Failed password for invalid user root from 91.240.118.172 port 30831 ssh2
+Jun 14 04:18:15 srv-prod-01 sshd[6095]: Invalid user sysadmin from 192.168.1.64 port 33957
+Jun 14 18:37:13 srv-prod-01 sshd[4114]: Failed password for invalid user admin from 45.33.32.156 port 26268 ssh2
+Jun 14 05:09:55 srv-prod-01 sshd[7062]: Invalid user test from 24.110.192.108 port 11339
+Jun 14 02:27:35 srv-prod-01 sshd[6447]: Connection closed by 192.168.1.108 port 49205 [preauth]
+Jun 14 01:39:12 srv-prod-01 sshd[5938]: Accepted publickey for root from 192.168.1.90 port 14421 ssh2
+Jun 14 16:05:54 srv-prod-01 sshd[9375]: Failed password for sysadmin from 45.33.32.156 port 15029 ssh2
+Jun 14 08:56:17 srv-prod-01 sshd[2419]: Failed password for invalid user ftp from 193.32.162.55 port 62275 ssh2
+Jun 14 10:20:30 srv-prod-01 sshd[2530]: Disconnected from 163.140.64.161 port 35986
+Jun 14 16:30:29 srv-prod-01 sshd[6977]: Failed password for invalid user sysadmin from 45.33.32.156 port 55688 ssh2
+Jun 14 04:41:04 srv-prod-01 sshd[9341]: Failed password for deploy from 204.173.187.194 port 40507 ssh2
+Jun 14 01:10:22 srv-prod-01 sshd[1550]: Accepted publickey for admin from 197.8.123.53 port 39948 ssh2
+Jun 14 13:39:52 srv-prod-01 sshd[4249]: Failed password for invalid user oracle from 193.32.162.55 port 62724 ssh2
+Jun 14 04:51:26 srv-prod-01 sshd[3868]: Disconnected from 172.16.0.127 port 43150
+Jun 14 20:05:39 srv-prod-01 sshd[7636]: Invalid user user1 from 172.16.0.127 port 16218
+Jun 14 11:52:58 srv-prod-01 sshd[4737]: Connection closed by 172.16.0.132 port 33176 [preauth]
+Jun 14 06:49:11 srv-prod-01 sshd[9618]: pam_unix(sshd:session): session opened for user test by (uid=0)
+Jun 14 15:59:55 srv-prod-01 sshd[5634]: Failed password for test from 192.168.1.90 port 25459 ssh2
+Jun 14 20:57:36 srv-prod-01 sshd[1096]: Failed password for oracle from 193.32.162.55 port 32283 ssh2
+Jun 14 20:10:03 srv-prod-01 sshd[4608]: Failed password for invalid user deploy from 45.33.32.156 port 39588 ssh2
+Jun 14 13:09:41 srv-prod-01 sshd[4878]: Failed password for git from 192.168.1.108 port 10125 ssh2
+Jun 14 17:14:30 srv-prod-01 sshd[4571]: Failed password for sysadmin from 193.32.162.55 port 8520 ssh2
+Jun 14 15:17:49 srv-prod-01 sshd[1320]: Failed password for oracle from 193.32.162.55 port 60323 ssh2
+Jun 14 21:33:44 srv-prod-01 sshd[5773]: pam_unix(sshd:session): session closed for user deploy
+Jun 14 23:25:20 srv-prod-01 sshd[7688]: Disconnected from 172.16.0.150 port 28308
+Jun 14 23:30:59 srv-prod-01 sshd[8342]: Failed password for backup from 193.32.162.55 port 33190 ssh2
+Jun 14 06:11:20 srv-prod-01 sshd[4945]: Connection closed by 192.168.1.90 port 41637 [preauth]
+Jun 14 22:55:43 srv-prod-01 sshd[4232]: Invalid user root from 172.16.0.70 port 49349
+Jun 14 16:04:00 srv-prod-01 sshd[3161]: Failed password for backup from 172.16.0.70 port 60622 ssh2
+Jun 14 19:29:03 srv-prod-01 sshd[1595]: Connection closed by 10.89.213.226 port 62229 [preauth]
+Jun 14 03:36:27 srv-prod-01 sshd[8740]: Disconnected from 203.74.70.10 port 55403
+Jun 14 02:28:27 srv-prod-01 sshd[4853]: Failed password for sysadmin from 45.33.32.156 port 57504 ssh2
+Jun 14 20:35:40 srv-prod-01 sshd[7010]: Connection closed by 141.57.58.69 port 54978 [preauth]
+Jun 14 15:57:13 srv-prod-01 sshd[5956]: Failed password for ftp from 45.33.32.156 port 36624 ssh2
+Jun 14 12:21:13 srv-prod-01 sshd[2790]: Failed password for invalid user git from 45.33.32.156 port 57494 ssh2
+Jun 14 22:58:39 srv-prod-01 sshd[2104]: Failed password for root from 45.33.32.156 port 16027 ssh2
+Jun 14 22:55:44 srv-prod-01 sshd[7291]: Failed password for maria from 45.33.32.156 port 13766 ssh2
+Jun 14 15:41:29 srv-prod-01 sshd[1430]: pam_unix(sshd:session): session opened for user oracle by (uid=0)
+Jun 15 00:00:00 srv-prod-01 sshd[1645]: pam_unix(sshd:session): session closed for user admin
+Jun 14 13:19:03 srv-prod-01 sshd[7329]: pam_unix(sshd:session): session opened for user postgres by (uid=0)
+Jun 14 10:25:01 srv-prod-01 sshd[5476]: Connection closed by 172.16.0.76 port 22777 [preauth]
+Jun 14 06:52:07 srv-prod-01 sshd[7246]: Disconnected from 99.119.210.12 port 32020
+Jun 14 01:50:58 srv-prod-01 sshd[7939]: Failed password for admin from 45.33.32.156 port 42592 ssh2
+Jun 14 04:16:29 srv-prod-01 sshd[4590]: Disconnected from 172.16.0.227 port 15497
+Jun 14 02:43:55 srv-prod-01 sshd[3621]: Disconnected from 192.168.1.89 port 53524
+Jun 14 05:21:53 srv-prod-01 sshd[5011]: Failed password for root from 45.33.32.156 port 4052 ssh2
+Jun 14 08:12:59 srv-prod-01 sshd[8739]: Accepted publickey for oracle from 172.16.0.76 port 22670 ssh2
+Jun 14 16:07:08 srv-prod-01 sshd[8025]: Failed password for invalid user postgres from 91.240.118.172 port 57395 ssh2
+Jun 14 08:22:42 srv-prod-01 sshd[5106]: Failed password for sysadmin from 192.168.1.199 port 13484 ssh2
+Jun 14 03:44:33 srv-prod-01 sshd[7658]: Failed password for test from 45.33.32.156 port 52149 ssh2
+Jun 14 22:16:49 srv-prod-01 sshd[9612]: pam_unix(sshd:session): session closed for user backup
+Jun 14 16:54:59 srv-prod-01 sshd[5807]: Connection closed by 47.69.32.184 port 3447 [preauth]
+Jun 14 16:21:18 srv-prod-01 sshd[1106]: Failed password for maria from 45.33.32.156 port 19255 ssh2
+Jun 14 04:39:10 srv-prod-01 sshd[7937]: Accepted publickey for sysadmin from 172.16.0.150 port 44963 ssh2
+Jun 14 13:10:28 srv-prod-01 sshd[7560]: Failed password for oracle from 192.168.1.108 port 39616 ssh2
+Jun 14 04:04:22 srv-prod-01 sshd[6038]: Failed password for invalid user www-data from 45.33.32.156 port 24812 ssh2
+Jun 14 03:46:17 srv-prod-01 sshd[5333]: Failed password for invalid user www-data from 45.33.32.156 port 9824 ssh2
+Jun 14 01:50:32 srv-prod-01 sshd[5067]: Connection closed by 192.168.1.89 port 28426 [preauth]
+Jun 14 16:27:30 srv-prod-01 sshd[6236]: Accepted publickey for git from 10.0.73.186 port 45714 ssh2
+Jun 14 02:38:28 srv-prod-01 sshd[2638]: Failed password for invalid user root from 45.33.32.156 port 31058 ssh2
+Jun 14 11:05:32 srv-prod-01 sshd[7224]: Disconnected from 192.168.1.89 port 41668
+Jun 14 19:59:49 srv-prod-01 sshd[2341]: Connection closed by 206.111.126.175 port 58245 [preauth]
+Jun 14 11:39:33 srv-prod-01 sshd[7841]: Failed password for root from 106.23.113.190 port 18114 ssh2
+Jun 14 10:51:47 srv-prod-01 sshd[4762]: Invalid user carlos from 172.16.0.127 port 25880
+Jun 14 23:43:14 srv-prod-01 sshd[5557]: Failed password for invalid user user1 from 91.240.118.172 port 61059 ssh2
+Jun 14 02:30:16 srv-prod-01 sshd[7054]: Failed password for invalid user www-data from 45.33.32.156 port 17033 ssh2
+Jun 14 16:55:31 srv-prod-01 sshd[5397]: Failed password for invalid user oracle from 193.32.162.55 port 55139 ssh2
+Jun 14 13:41:30 srv-prod-01 sshd[4273]: Disconnected from 192.168.1.89 port 62107
+Jun 14 05:10:43 srv-prod-01 sshd[3718]: Failed password for admin from 91.240.118.172 port 4932 ssh2
+Jun 14 17:47:18 srv-prod-01 sshd[4937]: Failed password for carlos from 193.32.162.55 port 50711 ssh2
+Jun 14 16:41:29 srv-prod-01 sshd[9756]: Connection closed by 192.168.1.199 port 53169 [preauth]
+Jun 14 06:55:31 srv-prod-01 sshd[3296]: Failed password for carlos from 45.33.32.156 port 30424 ssh2
+Jun 14 17:27:15 srv-prod-01 sshd[4470]: Disconnected from 10.0.222.18 port 2028
+Jun 14 14:27:14 srv-prod-01 sshd[2758]: Disconnected from 192.148.19.3 port 40527
+Jun 14 12:01:49 srv-prod-01 sshd[4899]: Failed password for invalid user admin from 45.33.32.156 port 34719 ssh2
+Jun 14 21:18:40 srv-prod-01 sshd[9056]: Failed password for oracle from 91.240.118.172 port 42625 ssh2
+Jun 14 18:22:42 srv-prod-01 sshd[9976]: Failed password for oracle from 45.33.32.156 port 55456 ssh2
+Jun 14 08:46:11 srv-prod-01 sshd[2290]: Failed password for invalid user www-data from 45.33.32.156 port 38206 ssh2
+Jun 14 21:26:22 srv-prod-01 sshd[7897]: Disconnected from 192.168.1.64 port 9331
+Jun 14 14:24:36 srv-prod-01 sshd[5915]: Failed password for ubuntu from 45.33.32.156 port 45043 ssh2
+Jun 14 17:14:54 srv-prod-01 sshd[3290]: pam_unix(sshd:session): session opened for user www-data by (uid=0)
