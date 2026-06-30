@@ -1,0 +1,11 @@
+Dashboard: SOC - Monitor de Seguridad
+Autor: Hiram Ccoto
+Evaluación Práctica Final - Seguridad Informática
+Herramienta elegida: Wazuh Dashboard / OpenSearch Dashboards
+Fuente de datos: wazuh-alerts-*
+Entorno: AWS EC2
+Instancia EC2: ip-172-31-82-180
+URL del servicio: https://44.202.248.113
+
+Justificación:
+Se eligió Wazuh Dashboard / OpenSearch Dashboards porque Wazuh ya fue instalado para el Laboratorio 2. Esto permite reutilizar la fuente de alertas wazuh-alerts-* y construir el dashboard SOC sin instalar Grafana o Kibana adicional.
