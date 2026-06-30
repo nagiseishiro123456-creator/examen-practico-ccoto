@@ -1,0 +1,24 @@
+<group name="local,exfiltration,">
+  <!--
+    Regla de correlación para posible exfiltración de datos:
+    1. Se identifica un login exitoso fuera del horario laboral usando la regla base 5715.
+    2. Luego se correlaciona con una transferencia saliente superior a 500 MB.
+    3. La condición de volumen se representa mediante el campo data.bytes_sent.
+    4. El evento final se clasifica como crítico con nivel 14.
+  -->
+
+  <rule id="100010" level="5">
+    <if_sid>5715</if_sid>
+    <time>10:00 pm - 6:00 am</time>
+    <description>Login exitoso fuera del horario laboral desde $(srcip)</description>
+    <group>authentication_success,out_of_hours</group>
+  </rule>
+
+  <rule id="100011" level="14" frequency="2" timeframe="600">
+    <if_matched_sid>100010</if_matched_sid>
+    <same_source_ip />
+    <field name="data.bytes_sent" type="pcre2">^([5-9][0-9]{8}|[1-9][0-9]{9,})$</field>
+    <description>Posible exfiltración de datos: transferencia saliente superior a 500 MB tras login fuera de horario</description>
+    <group>data_exfiltration,critical,after_hours</group>
+  </rule>
+</group>

@@ -1,0 +1,15 @@
+<group name="local,ssh,">
+  <!--
+    Regla de correlación para fuerza bruta SSH.
+    En esta instalación de Wazuh los fallos SSH se generan con la regla base 5760,
+    observada en alerts.log como "sshd: authentication failed".
+    La regla personalizada correlaciona 10 o más fallos desde la misma IP
+    dentro de 60 segundos.
+  -->
+  <rule id="100001" level="10" frequency="10" timeframe="60">
+    <if_matched_sid>5760</if_matched_sid>
+    <same_source_ip />
+    <description>Ataque de fuerza bruta SSH detectado desde $(srcip)</description>
+    <group>authentication_failures,brute_force,</group>
+  </rule>
+</group>
