@@ -1,0 +1,337 @@
+{
+    "fecha_analisis": "2026-06-30 21:01:59",
+    "archivo_analizado": "/home/ubuntu/examen-practico-ccoto/lab1/access.log",
+    "total_lineas": 1000,
+    "lineas_parseadas": 1000,
+    "total_eventos_http": 1000,
+    "escaneos_directorios": [],
+    "errores_http_por_ip": [
+        {
+            "ip": "45.33.32.156",
+            "total_errores_4xx_5xx": 47,
+            "codigos": {
+                "404": 34,
+                "403": 10,
+                "500": 3
+            }
+        },
+        {
+            "ip": "193.32.162.55",
+            "total_errores_4xx_5xx": 18,
+            "codigos": {
+                "500": 14,
+                "400": 4
+            }
+        },
+        {
+            "ip": "89.210.135.99",
+            "total_errores_4xx_5xx": 18,
+            "codigos": {
+                "404": 10,
+                "500": 8
+            }
+        },
+        {
+            "ip": "122.153.40.102",
+            "total_errores_4xx_5xx": 17,
+            "codigos": {
+                "500": 10,
+                "404": 7
+            }
+        },
+        {
+            "ip": "115.88.85.249",
+            "total_errores_4xx_5xx": 13,
+            "codigos": {
+                "500": 8,
+                "404": 5
+            }
+        },
+        {
+            "ip": "185.220.101.45",
+            "total_errores_4xx_5xx": 13,
+            "codigos": {
+                "500": 7,
+                "404": 6
+            }
+        },
+        {
+            "ip": "147.242.19.45",
+            "total_errores_4xx_5xx": 12,
+            "codigos": {
+                "500": 5,
+                "404": 7
+            }
+        },
+        {
+            "ip": "91.240.118.172",
+            "total_errores_4xx_5xx": 12,
+            "codigos": {
+                "404": 6,
+                "500": 6
+            }
+        },
+        {
+            "ip": "183.17.75.31",
+            "total_errores_4xx_5xx": 12,
+            "codigos": {
+                "500": 8,
+                "404": 4
+            }
+        },
+        {
+            "ip": "211.75.132.82",
+            "total_errores_4xx_5xx": 12,
+            "codigos": {
+                "404": 6,
+                "500": 6
+            }
+        },
+        {
+            "ip": "198.98.54.31",
+            "total_errores_4xx_5xx": 11,
+            "codigos": {
+                "404": 7,
+                "500": 4
+            }
+        },
+        {
+            "ip": "23.129.64.214",
+            "total_errores_4xx_5xx": 10,
+            "codigos": {
+                "500": 7,
+                "404": 3
+            }
+        },
+        {
+            "ip": "37.205.19.102",
+            "total_errores_4xx_5xx": 10,
+            "codigos": {
+                "404": 5,
+                "500": 5
+            }
+        },
+        {
+            "ip": "48.228.22.68",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "500": 5,
+                "404": 4
+            }
+        },
+        {
+            "ip": "4.214.57.107",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "404": 7,
+                "500": 2
+            }
+        },
+        {
+            "ip": "76.245.102.25",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "404": 3,
+                "500": 6
+            }
+        },
+        {
+            "ip": "78.159.143.216",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "500": 6,
+                "404": 3
+            }
+        },
+        {
+            "ip": "21.242.59.79",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "404": 5,
+                "500": 4
+            }
+        },
+        {
+            "ip": "68.115.137.145",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "500": 5,
+                "404": 4
+            }
+        },
+        {
+            "ip": "85.121.25.191",
+            "total_errores_4xx_5xx": 9,
+            "codigos": {
+                "404": 6,
+                "500": 3
+            }
+        },
+        {
+            "ip": "69.190.10.87",
+            "total_errores_4xx_5xx": 8,
+            "codigos": {
+                "404": 4,
+                "500": 4
+            }
+        },
+        {
+            "ip": "106.116.31.216",
+            "total_errores_4xx_5xx": 8,
+            "codigos": {
+                "500": 4,
+                "404": 4
+            }
+        },
+        {
+            "ip": "179.50.116.35",
+            "total_errores_4xx_5xx": 8,
+            "codigos": {
+                "404": 5,
+                "500": 3
+            }
+        },
+        {
+            "ip": "207.34.44.100",
+            "total_errores_4xx_5xx": 8,
+            "codigos": {
+                "500": 4,
+                "404": 4
+            }
+        },
+        {
+            "ip": "134.214.243.147",
+            "total_errores_4xx_5xx": 7,
+            "codigos": {
+                "404": 1,
+                "500": 6
+            }
+        },
+        {
+            "ip": "100.94.189.227",
+            "total_errores_4xx_5xx": 6,
+            "codigos": {
+                "404": 5,
+                "500": 1
+            }
+        },
+        {
+            "ip": "121.250.135.24",
+            "total_errores_4xx_5xx": 6,
+            "codigos": {
+                "404": 3,
+                "500": 3
+            }
+        },
+        {
+            "ip": "142.166.141.134",
+            "total_errores_4xx_5xx": 6,
+            "codigos": {
+                "500": 3,
+                "404": 3
+            }
+        },
+        {
+            "ip": "50.64.21.109",
+            "total_errores_4xx_5xx": 4,
+            "codigos": {
+                "404": 1,
+                "500": 3
+            }
+        },
+        {
+            "ip": "145.51.146.223",
+            "total_errores_4xx_5xx": 4,
+            "codigos": {
+                "404": 2,
+                "500": 2
+            }
+        }
+    ],
+    "intentos_sqli": [
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:30:16 +0000",
+            "metodo": "GET",
+            "url": "/login?user=admin'--&pass=x",
+            "codigo": 500,
+            "patrones_detectados": [
+                "--",
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:31:04 +0000",
+            "metodo": "GET",
+            "url": "/login?user=admin'--&pass=x",
+            "codigo": 500,
+            "patrones_detectados": [
+                "--",
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:30:56 +0000",
+            "metodo": "GET",
+            "url": "/search?q='",
+            "codigo": 200,
+            "patrones_detectados": [
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:30:08 +0000",
+            "metodo": "GET",
+            "url": "/search?q='",
+            "codigo": 500,
+            "patrones_detectados": [
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:31:44 +0000",
+            "metodo": "GET",
+            "url": "/search?q='",
+            "codigo": 500,
+            "patrones_detectados": [
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:32:40 +0000",
+            "metodo": "GET",
+            "url": "/login?user=admin'--&pass=x",
+            "codigo": 500,
+            "patrones_detectados": [
+                "--",
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:31:52 +0000",
+            "metodo": "GET",
+            "url": "/login?user=admin'--&pass=x",
+            "codigo": 500,
+            "patrones_detectados": [
+                "--",
+                "'"
+            ]
+        },
+        {
+            "ip": "193.32.162.55",
+            "fecha": "2024-06-14 05:32:32 +0000",
+            "metodo": "GET",
+            "url": "/search?q='",
+            "codigo": 500,
+            "patrones_detectados": [
+                "'"
+            ]
+        }
+    ]
+}
