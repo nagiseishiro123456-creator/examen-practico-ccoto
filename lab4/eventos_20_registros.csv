@@ -1,0 +1,21 @@
+timestamp,rule_id,rule_level,description,srcip,agent_name,location
+2026-06-30T23:02:43.955+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:02:43.955+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,journald
+2026-06-30T23:51:20.232+0000,5402,3,Successful sudo to ROOT executed.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:51:20.232+0000,5501,3,PAM: Login session opened.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:51:20.232+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:51:20.313+0000,5501,3,PAM: Login session opened.,,ip-172-31-82-180,journald
+2026-06-30T23:51:20.313+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,journald
+2026-06-30T23:51:20.313+0000,5402,3,Successful sudo to ROOT executed.,,ip-172-31-82-180,journald
+2026-06-30T23:54:30.257+0000,5501,3,PAM: Login session opened.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:54:30.257+0000,100010,5,Login exitoso fuera del horario laboral desde 191.97.49.149,191.97.49.149,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:54:30.335+0000,5501,3,PAM: Login session opened.,,ip-172-31-82-180,journald
+2026-06-30T23:54:30.335+0000,100010,5,Login exitoso fuera del horario laboral desde 191.97.49.149,191.97.49.149,ip-172-31-82-180,journald
+2026-06-30T23:54:34.338+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,journald
+2026-06-30T23:54:34.338+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:55:08.260+0000,5501,3,PAM: Login session opened.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:55:08.260+0000,100010,5,Login exitoso fuera del horario laboral desde 191.97.49.149,191.97.49.149,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:55:08.341+0000,100010,5,Login exitoso fuera del horario laboral desde 191.97.49.149,191.97.49.149,ip-172-31-82-180,journald
+2026-06-30T23:55:08.341+0000,5501,3,PAM: Login session opened.,,ip-172-31-82-180,journald
+2026-06-30T23:55:10.260+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,/var/log/auth.log
+2026-06-30T23:55:10.341+0000,5502,3,PAM: Login session closed.,,ip-172-31-82-180,journald
