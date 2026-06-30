@@ -1,0 +1,181 @@
+{
+    "fecha_analisis": "2026-06-30 20:50:24",
+    "total_intentos_fallidos": 253,
+    "ips_sospechosas": [
+        {
+            "ip": "45.33.32.156",
+            "intentos": 120,
+            "alerta": true
+        },
+        {
+            "ip": "193.32.162.55",
+            "intentos": 58,
+            "alerta": true
+        },
+        {
+            "ip": "91.240.118.172",
+            "intentos": 30,
+            "alerta": false
+        },
+        {
+            "ip": "172.16.0.70",
+            "intentos": 4,
+            "alerta": false
+        },
+        {
+            "ip": "192.168.1.90",
+            "intentos": 4,
+            "alerta": false
+        },
+        {
+            "ip": "172.16.0.227",
+            "intentos": 3,
+            "alerta": false
+        },
+        {
+            "ip": "172.16.0.76",
+            "intentos": 3,
+            "alerta": false
+        },
+        {
+            "ip": "172.16.0.182",
+            "intentos": 2,
+            "alerta": false
+        },
+        {
+            "ip": "10.0.222.18",
+            "intentos": 2,
+            "alerta": false
+        },
+        {
+            "ip": "192.168.1.108",
+            "intentos": 2,
+            "alerta": false
+        },
+        {
+            "ip": "10.0.128.239",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "185.160.97.196",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "172.16.0.127",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "153.1.141.220",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "34.187.139.213",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "74.8.220.207",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "192.168.1.143",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "192.168.1.89",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "192.168.1.216",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "103.225.197.87",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "172.16.0.150",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "64.37.42.69",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "193.203.39.77",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "162.247.74.201",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "91.135.247.50",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "24.201.234.248",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "131.228.28.117",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "146.43.26.40",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "209.75.120.27",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "135.233.7.185",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "53.35.106.151",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "10.0.115.138",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "204.173.187.194",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "192.168.1.199",
+            "intentos": 1,
+            "alerta": false
+        },
+        {
+            "ip": "106.23.113.190",
+            "intentos": 1,
+            "alerta": false
+        }
+    ]
+}
